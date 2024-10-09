@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @mmangkad
-- 👀 I’m interested in Artificial Intelligence and Machine Learning
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on cool projects
 - 📫 Reach me via LinkedIn: https://www.linkedin.com/in/mmangkad/
